@@ -27,8 +27,7 @@ The Number Adder Chrome Extension enables users to quickly perform arithmetic ca
 
 ## Images
 
-![Image1](./images/readme/1.png)
-![Image2](./images/readme/2.png)
+<img src="./images/readme/1.png" width="450"/> <img src="./images/readme/2.png" width="450"/>
 
 ## Requirements
 
