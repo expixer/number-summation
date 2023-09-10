@@ -25,6 +25,11 @@ The Number Adder Chrome Extension enables users to quickly perform arithmetic ca
 3. Click on the "Add Numbers" option.
 4. A sidebar window will appear displaying the sum.
 
+## Images
+
+![Image1](./images/readme/1.png)
+![Image2](./images/readme/2.png)
+
 ## Requirements
 
 - Google Chrome Browser
