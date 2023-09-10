@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Number Summation Side Panel</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Number Summation</h1>
+    <hr />
+    <p id="select-a-number">Select a Number to start summation.</p>
+    <div class="card">
+      <div class="header-container">
+        <h2 id="sum"></h2>
+        <button class="reset-button" id="reset-btn">Reset</button>
+      </div>
+      <div class="label-select-container">
+        <label for="region-select">Region:</label>
+        <select id="region-select">
+          <option value="US" selected>U.S.</option>
+          <option value="Europa">Europa</option>
+          <option value="Auto">Auto</option>
+        </select>
+      </div>
+      <h3>Selected Numbers</h3>
+      <p id="selected-numbers"></p>
+    </div>
+    <script src="sidepanel.js"></script>
+  </body>
+</html>
